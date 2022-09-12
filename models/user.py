@@ -8,4 +8,4 @@ class MainModel(BaseModel):
     name: str 
     email: str
     isAdmin: bool
-    isCostumer: bool
+    isWaiter: bool
