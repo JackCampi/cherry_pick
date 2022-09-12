@@ -6,3 +6,4 @@ class MainModel(BaseModel):
     """
     email: str
     sueldo: str
+    edad: int
