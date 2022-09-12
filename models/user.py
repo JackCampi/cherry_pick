@@ -7,5 +7,6 @@ class MainModel(BaseModel):
 
     name: str 
     email: str
-    isAdmin: bool
-    isWaiter: bool
+    '''isAdmin: bool
+    isWaiter: bool'''
+    rol: str
